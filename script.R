@@ -1,0 +1,3 @@
+# Script 
+
+read data file 
